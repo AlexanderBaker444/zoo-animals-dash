@@ -35,7 +35,7 @@ app.layout = html.Div(children=[
         id='figure-1',
         figure=fig
     ),
-    html.A('Code on Github', href='https://github.com/austinlasseter/zoo-animals-dash'),
+    html.A('Code on Github', href='https://github.com/AlexanderBaker444/zoo-animals-dash'),
     html.Br(),
     html.A('HTML Color Codes', href='https://htmlcolorcodes.com'),
 
